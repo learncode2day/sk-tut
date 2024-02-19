@@ -1,3 +1,46 @@
 # Table of contents
 
-* [Sk-Tutorials](README.md)
+* [Introduction](README.md)
+  * [The Basics](introduction/the-basics.md)
+  * [Syntax Overview](readme/syntax-overview.md)
+  * [Debugging](auxiliary-guides/debugging.md)
+  * [Useful Resources](introduction/useful-resources.md)
+
+## Core Concepts
+
+* [Indentation and Program Flow](core-concepts/indentation/README.md)
+  * [Conditionals](core-concepts/indentation/conditionals.md)
+  * [Loops](core-concepts/indentation/loops.md)
+  * [Functions](core-concepts/indentation/functions.md)
+* [Variables](core-concepts/variables/README.md)
+  * [Global and Local](core-concepts/variables/global-and-local.md)
+  * [List Basics](core-concepts/variables/list-basics.md)
+  * [Options and the Variables Section](core-concepts/variables/options-and-the-variables-section.md)
+  * [Memory Variables, Metadata, and Alternatives](core-concepts/variables/memory-variables-metadata-and-alternatives.md)
+* [Lists](core-concepts/lists/README.md)
+  * [Filters](core-concepts/lists/filters.md)
+  * [Index Serialization](core-concepts/lists/indices-and-values.md)
+* [Text?](core-concepts/text.md)
+* [Custom Commands](core-concepts/commands.md)
+* [Vectors](core-concepts/vectors/README.md)
+  * [Vectors in Skript](core-concepts/vectors/vectors-in-skript/README.md)
+    * [Other Ways to Create Vectors](core-concepts/vectors/vectors-in-skript/other-ways-to-create-vectors.md)
+  * [Working with Vectors](core-concepts/vectors/working-with-vectors.md)
+  * [Proper Vector Math](core-concepts/vectors/proper-vector-math.md)
+
+## Unfinished
+
+* [Syntax Types](syntax-types/README.md)
+  * [Reading Syntax](syntax-types/reading-syntax.md)
+  * [Events](syntax-types/events.md)
+  * [Conditions](syntax-types/conditions.md)
+  * [Effects](syntax-types/effects.md)
+  * [Literals and Aliases](syntax-types/literals-and-aliases.md)
+  * [Expressions](syntax-types/expressions.md)
+  * [Sections](syntax-types/sections.md)
+* [Auxiliary Guides](auxiliary-guides/README.md)
+  * [Cooldowns](unfinished/auxiliary-guides/cooldowns.md)
+  * [Using Math](auxiliary-guides/using-math.md)
+  * [Useful Config Options](auxiliary-guides/useful-config-options.md)
+  * [Naming Conventions](auxiliary-guides/naming-conventions.md)
+  * [Writing Good Code](auxiliary-guides/writing-good-code.md)
